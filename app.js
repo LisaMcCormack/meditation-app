@@ -1,7 +1,10 @@
 const app = () => {
+  //audio class="song" line 26
   const song = document.querySelector('.song');
+  //image line 29
   const play = document.querySelector('.play');
   const outline = document.querySelector('.moving-outline circle');
+  // line 14
   const video = document.querySelector('.vid-container video');
 
   const sounds = document.querySelectorAll('.sound-picker button');
@@ -15,7 +18,7 @@ const app = () => {
   outline.style.strokeDasharray = outlineLength;
   outline.style.strokeDashoffset = outlineLength;
 
-  //Pick different sounds
+
   sounds.forEach(sound => {
     sound.addEventListener('click', function(){
       song.src = this.getAttribute('data-sound');
@@ -29,10 +32,10 @@ const app = () => {
   });
 
 
-  // select sound
+  // select time
   timeSelect.forEach(option => {
   option.addEventListener("click", function() {
-    fakeDuration = this.getAttribute("data-time");
+    fakeDuration = this.getAttribute('data-time');
     timeDisplay.textContent = `${Math.floor(fakeDuration / 60)}:${Math.floor(fakeDuration % 60)}`;
   });
 });
