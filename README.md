@@ -8,7 +8,7 @@ It is an app that required a lot of css styling.  The app went from looking like
 
 To this:
 
-![alt text](./images/styling.png)
+![alt text](./images/nicestyling.png)
 
 
 Meditation has proven scientific benefits.
