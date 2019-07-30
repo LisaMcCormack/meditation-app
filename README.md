@@ -11,7 +11,7 @@ To this:
 ![alt text](./images/nicestyling.png)
 
 
-The app plays the sound of rain of the beach while you meditate.  You can choose to meditate for two, five or 10minutes.  
+The app plays the sound of rain or the beach while you meditate.  You can choose to meditate for two, five or 10minutes.  
 
 ## Instructions
 
