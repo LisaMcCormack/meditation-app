@@ -8,7 +8,7 @@ It is an app that required a lot of css styling.  The app went from looking like
 
 To this:
 
-![alt text](./images/nicestyling.png)
+![alt text](./images/nicestyling1.png)
 
 
 The app plays the sound of rain or the beach while you meditate.  You can choose to meditate for two, five or 10minutes.  
