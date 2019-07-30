@@ -12,7 +12,7 @@ const app = () => {
   const timeDisplay = document.querySelector('.time-display');
 
   const outlineLength = outline.getTotalLength();
-  const timeSelect = document.querySelectorAll('time-select button')
+  const timeSelect = document.querySelectorAll('.time-select button')
   let fakeDuration = 600;
 
   outline.style.strokeDasharray = outlineLength;

@@ -13,9 +13,14 @@ To this:
 
 The app plays the sound of rain of the beach while you meditate.  You can choose to meditate for two, five or 10minutes.  
 
-I have finished the tutorial but the app has a bug:
+## Instructions
 
-- Selecting the two, five or 10minute buttons does not work
+Clone the App
+```
+git clone git@github.com:LisaMcCormack/meditation-app.git
+```
 
-## My approach to fixing the bug
-I will look at the code and write comments over each function to fully understand what it is doing.
+In the terminal:
+```
+open index.html
+```
