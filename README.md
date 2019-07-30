@@ -11,8 +11,6 @@ To this:
 ![alt text](./images/nicestyling.png)
 
 
-Meditation has proven scientific benefits.
-
 The app plays the sound of rain of the beach while you meditate.  You can choose to meditate for two, five or 10minutes.  
 
 I have finished the tutorial but the app has a bug:
